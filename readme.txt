@@ -3,3 +3,5 @@ Currently added units are:
 Thallax Cohort
 Thanatar Siege-Automata
 Domitar Class Battle-automata
+Krios Battle Tank
+Krios Venator Tank Destroyer
