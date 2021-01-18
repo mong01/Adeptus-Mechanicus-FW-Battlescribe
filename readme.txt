@@ -5,3 +5,4 @@ Thanatar Siege-Automata
 Domitar Class Battle-automata
 Krios Battle Tank
 Krios Venator Tank Destroyer
+My email account if you want to send in criticism or ideas is mong94bdc@hotmail.com.
