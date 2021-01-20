@@ -7,5 +7,8 @@ Krios Battle Tank
 Krios Venator Tank Destroyer
 Myrmidon Secutors
 Myrmidon Destructors
+Ursarax Cohort
+Vorax Class Battle-automata Maniple
+Vultarax Stratos-automata Maniple
 
 My email account if you want to send criticism, ideas and bug reports is mong94bdc@hotmail.com.
