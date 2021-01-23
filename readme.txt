@@ -16,6 +16,7 @@ Ordinatus Aktaeus
 Karacnos Assault Tank
 Macrocarid Explorator
 Triaros Armoured Conveyor
+Adsecularis Covenant
 
 My email account if you want to send criticism, ideas and bug reports is mong94bdc@hotmail.com.
 Alternatively, you could send me a message to a discord account I made, at mong#2655
