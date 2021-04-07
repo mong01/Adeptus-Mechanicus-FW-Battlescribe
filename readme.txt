@@ -7,6 +7,7 @@ Karacnos Assault Tank
 Krios Battle Tank
 Krios Venator Tank Destroyer
 Macrocarid Explorator
+Magos Prime/Archmagos Prime
 Myrmidon Destructors
 Myrmidon Secutors
 Ordinatus Aktaeus
