@@ -1,5 +1,3 @@
-If you discover a bug, inconsistency or etc., click on the Issues tab, then New Issue. Describe your problem clearly and concisely and I'll fix it as soon as.
-
 Place this file in C:\Users\YourName\BattleScribe\data\Warhammer 40,000 9th Edition. Appears next to Adeptus Mechanicus in BattleScribe.
 Currently added units are:
 Adsecularis Covenant
@@ -23,5 +21,6 @@ Ursarax Cohort
 Vorax Class Battle-automata Maniple
 Vultarax Stratos-automata Maniple
 
-My email account if you want to send criticism, ideas and bug reports is mong94bdc@hotmail.com.
-Alternatively, you could send me a message to a discord account I made, at mong#2655
+If you discover a bug, inconsistency or etc., click on the Issues tab, then New Issue. Describe your problem clearly and concisely and I'll fix it as soon as. You could also give me some criticism or give any ideas for this stuff.
+You could also send me an email to an account I made at mong94bdc@hotmail.com.
+Or you can send me a message to a discord account I also made at mong#2655. Just make sure you aren't a creep.
