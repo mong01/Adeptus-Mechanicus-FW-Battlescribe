@@ -1,3 +1,7 @@
+ONCE BATTLESCRIBE IS UPDATED TO THE NEW CODEX, THIS WILL BECOME OUTDATED BECAUSE I HAD NO IDEA HOW BATTLESCRIBE WORKED WHEN I STARTED MAKING IT. IT WILL BE AT LEAST TWO WEEKS, PROBABLY AN OVERESTIMATE BUT I DON'T WANT TO BE LATE, BEFORE IT IS UPDATED TO WORK WITH THE NEW ONE BUT ONCE IT'S DONE, IT SHOULDN'T HAPPEN AGAIN. Also, I think everything here is balanced with the new codexes instead of the current 8th edition Adeptus Mechanicus codex similar to the FW compendium rules but it will balance out with the new codex.
+
+
+
 Place this file in C:\Users\YourName\BattleScribe\data\Warhammer 40,000 9th Edition. Appears next to Adeptus Mechanicus in BattleScribe.
 Currently added units are:
 Adsecularis Covenant
