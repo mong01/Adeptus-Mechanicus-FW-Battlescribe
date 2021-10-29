@@ -10,6 +10,7 @@ Krios Battle Tank
 Krios Venator Tank Destroyer
 Macrocarid Explorator
 Magos Prime/Archmagos Prime
+Myrmidon Centurius
 Myrmidon Destructors
 Myrmidon Secutors
 Ordinatus Aktaeus
