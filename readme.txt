@@ -4,6 +4,7 @@ Place these files in C:\Users\YourName\BattleScribe\data\Warhammer 40,000 9th Ed
 Currently added units are:
 Adsecularis Covenant
 Castellax Class Battle-automata Maniple
+Cybertheurgist Priest
 Domitar Class Battle-automata Maniple
 Karacnos Assault Tank
 Krios Battle Tank
