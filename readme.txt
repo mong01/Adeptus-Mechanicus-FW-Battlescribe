@@ -1,5 +1,3 @@
-Note: Just in case the keywords break, every unit is CULT MECHANICUS and every unit has the <FORGE WORLD> keyword.
-
 Place these files in C:\Users\YourName\BattleScribe\data\Warhammer 40,000 9th Edition. Appears next to Adeptus Mechanicus in BattleScribe.
 Currently added units are:
 Adsecularis Covenant
