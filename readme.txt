@@ -1,3 +1,5 @@
+IF THERE ARE ANY RULES THAT AREN'T EXPLAINED, MAKE SURE TO CHECK THE REFERENCES IN THE CONFIGURATION CATEGORY OR THE SELECTION RULES.
+
 Place these files in C:\Users\YourName\BattleScribe\data\Warhammer 40,000 9th Edition. Appears next to Adeptus Mechanicus in BattleScribe.
 Currently added units are:
 Adsecularis Covenant
