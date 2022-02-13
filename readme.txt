@@ -18,6 +18,7 @@ Ordinatus Aktaeus
 Ordinatus Sagittar
 Ordinatus Ulator
 Scyllax Guardian-automata Covenant
+Secutarii Axiarch
 Thallax Cohort
 Thanatar Siege-Automata
 Triaros Armoured Conveyor
