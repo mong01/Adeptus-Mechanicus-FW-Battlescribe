@@ -1,0 +1,8 @@
+Q. When using the combat augment array, how many dice for attacks can you modify at once?
+A. One, attacks are considered separate rolls.
+
+Q. Is bombardment affected by abilities that allow you to re-roll the hit roll, add 1 to the wound roll, etc.?
+A. Yes. Any ability that says it modifies the CHARACTERISTIC of a weapon has no effect, that means shots, strength, AP, etc.
+
+Q. If a unit is hit by a photon gauntlet from several models, can you roll more than 1 dice?
+A. No.
