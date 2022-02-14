@@ -6,3 +6,9 @@ A. Yes. Any ability that says it modifies the CHARACTERISTIC of a weapon has no 
 
 Q. If a unit is hit by a photon gauntlet from several models, can you roll more than 1 dice?
 A. No.
+
+Q. If a unit loses a wound by a rad weapon and is under the effects of another rule reducing its toughness, which one doesn't affect it?
+A. The rad weapon ability always becomes ineffective first if there's a separate ability at play.
+
+Q. For the rad furnace, what counts as a "similar ability"?
+A. An ability that reduces the Strength and/or Toughness characteristic of a unit.
