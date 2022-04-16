@@ -14,4 +14,4 @@ Q. For the rad furnace, what counts as a "similar ability"?
 A. An ability that reduces the Strength and/or Toughness characteristic of a unit.
 
 Q. Does bombardment count as an "Indirect Fire" weapon?
-A. No. It would be stupid and make no sense, just like Hive Guard being affected by this change.
+A. No. It does not suffer any penalty and there are no buffs for shooting at non-visible units, its rules replace those.
