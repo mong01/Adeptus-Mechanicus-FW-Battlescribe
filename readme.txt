@@ -4,6 +4,7 @@ THIS HOMEBREW USES A FAIR AMOUNT OF SELECTION RULES, MAKE SURE TO CHECK IF A UNI
 Place these files in C:\Users\YourName\BattleScribe\data\Warhammer 40,000 9th Edition. Appears next to Adeptus Mechanicus in BattleScribe.
 Currently added units are:
 Adsecularis Covenant
+Arlatax Class Battle-automata Maniple
 Castellax Class Battle-automata Maniple
 Cybertheurgist Priest
 Domitar Class Battle-automata Maniple
