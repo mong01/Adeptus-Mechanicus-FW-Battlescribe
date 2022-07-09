@@ -17,4 +17,7 @@ Q. Does bombardment count as an "Indirect Fire" weapon?
 A. No. It does not suffer any penalty and there are no buffs for shooting at non-visible units, its rules replace those.
 
 Q. Some stuff doesn't disappear or get restricted when the Titan-Guard Cohort Army of Renown is selected, is that intentional?
-A. Due to the way BattleScribe works, modifying it this way would require me to modify other catalogs significantly, which needs to be redone with every update to the original file, this would take a lot of time and would be prone to errors. It's easier to just ask you to remember the rules.
+A. Due to the way BattleScribe works, modifying it this way would need me to modify other catalogs significantly, which needs to be redone with every update to the original file, this would take a lot of time and would be prone to errors. It's easier to just ask you to remember the rules.
+
+Q. Do Super-heavy Auxiliary Detachments for the Titan-Guard Cohort cost CP in War Zone Nephilim?
+A. No, as all units gain the <TITAN LEGION> Keyword.
