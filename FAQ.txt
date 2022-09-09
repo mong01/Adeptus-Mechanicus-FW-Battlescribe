@@ -21,3 +21,6 @@ A. Due to the way BattleScribe works, modifying it this way would need me to mod
 
 Q. Do Super-heavy Auxiliary Detachments for the Titan-Guard Cohort cost CP in War Zone Nephilim?
 A. No, as all units gain the <TITAN LEGION> Keyword.
+
+Q. Do detachment-wide order effects still work if the relevant Archmagos has been removed from the battlefield?
+A. Yes.
