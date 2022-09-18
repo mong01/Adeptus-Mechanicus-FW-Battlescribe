@@ -4,7 +4,7 @@ A. One, attacks are considered separate rolls.
 Q. Is bombardment affected by abilities that allow you to re-roll the hit roll, add 1 to the wound roll, etc.?
 A. Yes. Any ability that says it modifies the CHARACTERISTIC of a weapon has no effect, that means shots, strength, AP, etc.
 
-Q. If a unit is hit by a photon gauntlet, darkfire cannon or similar weapon from several models in the same phase, can you roll more than 1 dice?
+Q. If a unit is hit by a photon gauntlet or similar weapon from several models in the same phase, can you roll more than 1 dice?
 A. No. 
 
 Q. If a unit loses a wound by a rad weapon and is under the effects of another rule reducing its toughness, which one doesn't affect it?
