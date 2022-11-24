@@ -24,3 +24,6 @@ A. No, as all units gain the <TITAN LEGION> Keyword.
 
 Q. Do detachment-wide order effects still work if the relevant Archmagos has been removed from the battlefield?
 A. Yes.
+
+Q. Can you use the Ætherlabe Staff and Infoslave Skull stratagem to let a unit shoot twice?
+A. No.
