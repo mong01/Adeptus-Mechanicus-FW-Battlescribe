@@ -27,3 +27,11 @@ A. Yes.
 
 Q. Can you use the Ætherlabe Staff and Infoslave Skull stratagem to let a unit shoot twice?
 A. No.
+
+MACHINE SPIRIT RESURGENT:
+Add the following sentence to the end of this Stratagem:
+'If that model has the TITANIC keyword, this Stratagem costs 2CP; otherwise, it costs 1CP.'
+
+MACHINE SPIRIT'S REVENGE:
+Change the first sentence to read:
+'Use this Stratagem in any phase, when an ADEPTUS MECHANICUS VEHICLE model (excluding TITANIC models) in your army is destroyed.'
