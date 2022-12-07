@@ -28,10 +28,16 @@ A. Yes.
 Q. Can you use the Ætherlabe Staff and Infoslave Skull stratagem to let a unit shoot twice?
 A. No.
 
-MACHINE SPIRIT RESURGENT:
-Add the following sentence to the end of this Stratagem:
-'If that model has the TITANIC keyword, this Stratagem costs 2CP; otherwise, it costs 1CP.'
+CRUSHING WEIGHT:
+Change the second sentence to read:
+'Select one enemy unit within Engagement Range of that IRONSTRIDER ENGINE, KASTELAN ROBOTS or BATTLE-AUTOMATA unit and roll one D6 for each model in that IRONSTRIDER ENGINE, KASTELAN ROBOTS or BATTLE-AUTOMATA unit that is within Engagement Range of that enemy unit: for each 2+, that enemy unit suffers 1 mortal wound.'
+And add the following sentence to the end of this Stratagem:
+'If that BATTLE-AUTOMATA unit has a Wounds characteristic of 10 or more, that enemy unit suffers D3 mortal wounds instead.'
 
 MACHINE SPIRIT'S REVENGE:
 Change the first sentence to read:
 'Use this Stratagem in any phase, when an ADEPTUS MECHANICUS VEHICLE model (excluding TITANIC models) in your army is destroyed.'
+
+MACHINE SPIRIT RESURGENT:
+Add the following sentence to the end of this Stratagem:
+'If that model has the TITANIC keyword, this Stratagem costs 2CP; otherwise, it costs 1CP.'
