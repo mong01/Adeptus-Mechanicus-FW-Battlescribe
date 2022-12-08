@@ -30,8 +30,7 @@ A. No.
 
 CRUSHING WEIGHT:
 Change this Stratagem to read:
-'Use this Stratagem in your Charge phase, when an IRONSTRIDER ENGINE, KASTELAN ROBOTS or BATTLE-AUTOMATA unit from your army finishes a charge move.
-Select one enemy unit within Engagement Range of that IRONSTRIDER ENGINE, KASTELAN ROBOTS or BATTLE-AUTOMATA unit and roll one D6 for each model in that IRONSTRIDER ENGINE, KASTELAN ROBOTS or BATTLE-AUTOMATA unit that is within Engagement Range of that enemy unit: for each 2+, that enemy unit suffers 1 mortal wound. If that BATTLE-AUTOMATA unit has a Wounds characteristic of 10 or more, that enemy unit suffers D3 mortal wounds instead.'
+'Use this Stratagem in your Charge phase, when an IRONSTRIDER ENGINE, KASTELAN ROBOTS or BATTLE-AUTOMATA unit from your army finishes a charge move. Select one enemy unit within Engagement Range of that IRONSTRIDER ENGINE, KASTELAN ROBOTS or BATTLE-AUTOMATA unit and roll one D6 for each model in that IRONSTRIDER ENGINE, KASTELAN ROBOTS or BATTLE-AUTOMATA unit that is within Engagement Range of that enemy unit: for each 2+, that enemy unit suffers 1 mortal wound. If that BATTLE-AUTOMATA unit has a Wounds characteristic of 10 or more, that enemy unit suffers D3 mortal wounds instead.'
 
 MACHINE SPIRIT'S REVENGE:
 Change the first sentence to read:
