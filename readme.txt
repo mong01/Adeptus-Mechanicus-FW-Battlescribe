@@ -22,6 +22,7 @@ Ordinatus Sagittar
 Ordinatus Ulator
 Scyllax Guardian-automata Covenant
 Secutarii Axiarch
+Tarantula Sentry Gun Battery
 Thallax Cohort
 Thanatar Siege-Automata
 Triaros Armoured Conveyor
