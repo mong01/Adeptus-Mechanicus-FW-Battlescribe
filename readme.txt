@@ -17,6 +17,7 @@ Magos Prime/Archmagos Prime
 Myrmidon Centurius
 Myrmidon Destructors
 Myrmidon Secutors
+Navigator
 Ordinatus Aktaeus
 Ordinatus Sagittar
 Ordinatus Ulator
